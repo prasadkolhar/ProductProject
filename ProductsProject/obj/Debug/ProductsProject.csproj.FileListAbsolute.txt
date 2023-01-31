@@ -1,0 +1,184 @@
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\ProductsProject.dll.config
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\ProductsProject.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\ProductsProject.pdb
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\csc.exe
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\csc.exe.config
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\csc.rsp
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\csi.exe
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\csi.exe.config
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\csi.rsp
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.AppContext.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Console.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Net.Http.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\vbc.exe
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\vbc.exe.config
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\vbc.rsp
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\Antlr3.Runtime.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\EntityFramework.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\EntityFramework.SqlServer.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\Newtonsoft.Json.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.Web.Helpers.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.Web.Mvc.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.Web.Optimization.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.Web.Razor.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.Web.WebPages.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\WebGrease.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\EntityFramework.xml
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\EntityFramework.SqlServer.xml
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.Web.Helpers.xml
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.Web.Mvc.xml
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.Web.Optimization.xml
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.Web.Razor.xml
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.Web.WebPages.xml
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\Newtonsoft.Json.xml
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\Antlr3.Runtime.pdb
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\obj\Debug\ProductsProject.csprojAssemblyReference.cache
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\obj\Debug\ProductsProject.csproj.CoreCompileInputs.cache
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\obj\Debug\ProductsProject.csproj.CopyComplete
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\obj\Debug\ProductsProject.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\obj\Debug\ProductsProject.pdb
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\DryIoc.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\PagedList.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\PagedList.Mvc.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.ValueTuple.dll
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\DryIoc.xml
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\PagedList.xml
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\PagedList.Mvc.xml
+C:\Users\ANIL\source\repos\ProductsProject\ProductsProject\bin\System.ValueTuple.xml
+C:\Nimap task\ProductsProject\ProductsProject\bin\ProductsProject.dll.config
+C:\Nimap task\ProductsProject\ProductsProject\bin\ProductsProject.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\ProductsProject.pdb
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\csc.exe
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\csc.exe.config
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\csc.rsp
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\csi.exe
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\csi.exe.config
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\csi.rsp
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.AppContext.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Console.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.IO.Compression.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Net.Http.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Net.Sockets.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.ValueTuple.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Xml.XPath.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\vbc.exe
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\vbc.exe.config
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\vbc.rsp
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\VBCSCompiler.exe
+C:\Nimap task\ProductsProject\ProductsProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Nimap task\ProductsProject\ProductsProject\bin\Antlr3.Runtime.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\DryIoc.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\EntityFramework.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\EntityFramework.SqlServer.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\Newtonsoft.Json.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\PagedList.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\PagedList.Mvc.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.ValueTuple.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.Web.Helpers.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.Web.Mvc.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.Web.Optimization.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.Web.Razor.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.Web.WebPages.Deployment.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.Web.WebPages.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.Web.WebPages.Razor.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\WebGrease.dll
+C:\Nimap task\ProductsProject\ProductsProject\bin\DryIoc.xml
+C:\Nimap task\ProductsProject\ProductsProject\bin\EntityFramework.xml
+C:\Nimap task\ProductsProject\ProductsProject\bin\EntityFramework.SqlServer.xml
+C:\Nimap task\ProductsProject\ProductsProject\bin\PagedList.xml
+C:\Nimap task\ProductsProject\ProductsProject\bin\PagedList.Mvc.xml
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.ValueTuple.xml
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.Web.Helpers.xml
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.Web.Mvc.xml
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.Web.Optimization.xml
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.Web.Razor.xml
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.Web.WebPages.xml
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.Web.WebPages.Deployment.xml
+C:\Nimap task\ProductsProject\ProductsProject\bin\System.Web.WebPages.Razor.xml
+C:\Nimap task\ProductsProject\ProductsProject\bin\Newtonsoft.Json.xml
+C:\Nimap task\ProductsProject\ProductsProject\bin\Antlr3.Runtime.pdb
+C:\Nimap task\ProductsProject\ProductsProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Nimap task\ProductsProject\ProductsProject\obj\Debug\ProductsProject.csproj.AssemblyReference.cache
+C:\Nimap task\ProductsProject\ProductsProject\obj\Debug\ProductsProject.csproj.CoreCompileInputs.cache
+C:\Nimap task\ProductsProject\ProductsProject\obj\Debug\ProductsProject.csproj.CopyComplete
+C:\Nimap task\ProductsProject\ProductsProject\obj\Debug\ProductsProject.dll
+C:\Nimap task\ProductsProject\ProductsProject\obj\Debug\ProductsProject.pdb
+C:\Nimap task\ProductsProject\ProductsProject\obj\Debug\ProductsProject.Migrations.CodeFirst1.resources
+C:\Nimap task\ProductsProject\ProductsProject\obj\Debug\ProductsProject.csproj.GenerateResource.cache
